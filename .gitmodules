@@ -1,0 +1,3 @@
+[submodule "microbmp"]
+	path = microbmp
+	url = git@github.com:jacklinquan/microbmp.git
